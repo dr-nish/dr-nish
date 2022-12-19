@@ -1,3 +1,3 @@
-- 👋 My name is Dale, I'm from Sydney my alias is @dr-nish
+- 👋 My name is Dale, I'm from Sydney...my alias is @dr-nish since 2004 =)
 - 👀 
 - 🌱 I’m currently learning GoLang
